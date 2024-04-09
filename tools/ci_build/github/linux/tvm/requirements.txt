@@ -3,8 +3,8 @@ decorator
 scipy
 wheel
 setuptools
-onnx==1.11.0
-protobuf==3.18.3
+onnx==1.16.0
+protobuf==5.26.1
 flatbuffers
 tornado
 psutil
